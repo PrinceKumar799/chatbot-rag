@@ -1,7 +1,0 @@
-mistralai
-requests
-numpy
-faiss-cpu
-fastapi
-uvicorn
-jinja2
