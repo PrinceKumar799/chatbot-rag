@@ -1,0 +1,71 @@
+Prince Kumar
+Maharajganj, Siwan, Bihar 841244
+Contact: 620-704-3711 | Email: pk4294884@gmail.com
+LinkedIn: linkedin.com/in/prince-kumar-42b42620a | GitHub: github.com/PrinceKumar799
+
+---
+
+## Education
+- **Chandigarh University** (Aug. 2020 – June 2024)
+  BE Computer Science Engineering, Mohali, Punjab
+  CGPA: 8.55
+
+- **BSBA Inter College** (May 2017 – Feb. 2019)
+  Intermediate of Science, Siwan, Bihar
+  Percentage: 83
+
+- **Children Delight School** (March 2015 – April 2017)
+  Higher Secondary, Saran, Bihar
+  CGPA: 9.4
+
+---
+
+## Relevant Coursework
+- Data Structures, Algorithms Analysis, Database Management
+- Artificial Intelligence, Big Data Technology
+- Operating Systems, Web Development
+
+---
+
+## Experience
+- **Walkwel Technology Private Limited** (January 2024)
+  - Reduced a Next.js application's build size by 10%.
+  - Engineered a MERN stack solution for an e-commerce site.
+  - Implemented caching mechanisms with Redis for scalability.
+  - Created a scheduling algorithm for voice call job scheduling.
+
+---
+
+## Projects
+- **ShopKing E-commerce Platform** (ReactJS, Django, PostgreSQL, Redis, Bootstrap)
+  - Built a seamless shopping experience using MERN stack architecture.
+  - Added advanced pagination and filtering for product discovery.
+  - Optimized performance with Redis caching.
+
+- **Advanced Notes Application** (ReactJS, JavaScript, Bootstrap)
+  - Designed an advanced note-taking web application.
+
+- **Bank Customer Behavior Prediction** (Python, Machine Learning)
+  - Predicted future subscriptions of bank term deposits with 89.33% accuracy.
+
+---
+
+## Technical Skills
+- **Languages**: Python, C, HTML/CSS, JavaScript, TypeScript, Scala, C++, Java, 
+- **Developer Tools**: VS Code, Eclipse, Git, Android Studio, TypeORM
+- **Frameworks**: Django, NodeJS, NestJS, ExpressJS, ReactJS, MVC
+- **Databases**: PostgreSQL, MongoDB
+
+---
+
+## Academic Achievements
+- University Academic Topper 2020-21
+- 95.6 Percentile in JEE Mains 2020
+- Merit Scholarship from Government of Bihar
+- 1st Rank in Provincial Interschool English Quiz (2016)
+
+---
+
+## Leadership & Extracurricular
+- Volunteered in the formation of the largest human image of a waving flag.
+- Co-ordinator for the seating management team in college cultural events.
